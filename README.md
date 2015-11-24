@@ -1,1 +1,3 @@
 # exercise
+hi 
+hello world
